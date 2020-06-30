@@ -1,4 +1,4 @@
-# Project Kuref
+# Kuref Project
 *Kuref* (from [Mapudungun](https://en.wikipedia.org/wiki/Mapuche_language) 'wind') is an opensource automatic weather station framework that allow developers and enthusiasts to retrieve and process sensors data in a standard, systematic and easy way.
 
 **Note**: This repo serves as a documentation repository and doesn't contain source code.
